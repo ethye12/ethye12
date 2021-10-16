@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Oct 2021 17:10:15 at https://tiktok-marketplace.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tiktok-marketplace.com/ -O1 "C:\Users\ethan\Desktop\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:10:16	Warning: 	Note: due to https://tiktok-marketplace.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+17:10:25	Warning: 	Link https://tiktok-marketplace.com/2020/10/29/hello-world/ not scanned (follow robots meta tag)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000312-✅-account-173-3k-followers-1-7m-likes-food-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000311-✅-account-99-4k-followers-274-5k-likes-entertainment-channel-registered-creator-fund-and-live-stream/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000310-✅-account-123-0k-followers-589-3k-likes-entertainment-channel-registered-creator-fund-turn-on-live-stream/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000306-✅-big-account-542-0k-followers-4-6m-likes-entertainment-channel-registered-creator-fund-great-traffics/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000304-✅-account-647k-followers-3873k-likes-entertainment-channel-registered-creator-fund-turn-on-live-stream/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000303-✅-account-141-0k-followers-789-0k-likes-entertainment-channel-turn-on-live-stream/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000302-✅-account-164-0k-followers-877-1k-likes-entertainment-channel-turn-on-live-stream-followers-164-0k/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000301-✅-account-good-traffics-418-9k-followers-25m-likes-entertainment-channel/ (from https://tiktok-marketplace.com/)
+17:10:28	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000299-✅-account-97-1k-followers-403-5k-likes-entertainment-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/wp-content/themes/zbal-m4g-prod/img/icon-account.jpg (from https://tiktok-marketplace.com/wp-content/themes/zbal-m4g-prod/core.min.css?ver=5.6)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/wp-content/themes/zbal-m4g-prod/img/default/logo-text.png (from https://tiktok-marketplace.com/wp-content/themes/zbal-m4g-prod/core.min.css?ver=5.6)
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/chrome-extension://
+17:10:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://tiktok-marketplace.com/chrome-extension:// and https://tiktok-marketplace.com/chrome-extension:/
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/chrome-extension:// to https://tiktok-marketplace.com/chrome-extension:/
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+17:10:40	Error: 	"Not Found" (404) at link https://tiktok-marketplace.com/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/?p=11116
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/?p=11116 to https://tiktok-marketplace.com/accounts-for-sale/
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000268-✅-account-119-4k-followers-472-5k-likes-entertainment-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000267-✅-account-81-7k-followers-504-5k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000284-✅-account-verified-835k-followers-4868k-likes-movie-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000276-✅-account-verified-201-0k-followers-904-4k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000274-✅-account-verified-70-9k-followers-303-6k-likes-entertainment-channel-registered-creator-fu/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000270-✅-account-verified-69-3k-followers-187-0k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000264-✅-account-verified-155-2k-followers-1-2m-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000260-✅-account-verified-93-8k-followers-344-2k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000258-✅-account-verified-62-0k-followers-380-5k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000256-✅-account-verified-202-7k-followers-1-1m-likes-entertainment-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000255-✅-account-verified-81k-followers-664-7k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000238-✅-account-verified-71-5k-followers-322-3k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000232-✅-account-verified-79-1k-followers-439-9k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000231-✅-account-verified-97-1k-followers-403-5k-likes-entertainment-channel-registered-creator-fund/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Error: 	"Error when decompressing" (-1) at link https://tiktok-marketplace.com/account-for-sale/000227-✅-account-verified-84-7k-followers-454k-likes-entertainment-channel/ (from https://tiktok-marketplace.com/accounts-for-sale/)
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/?p=11351
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/?p=11351 to https://tiktok-marketplace.com/about-us/
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/?p=11355
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/?p=11355 to https://tiktok-marketplace.com/terms-of-service/
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/?p=11353
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/?p=11353 to https://tiktok-marketplace.com/privacy-policy/
+17:10:40	Warning: 	Moved Permanently for https://tiktok-marketplace.com/?p=11357
+17:10:40	Warning: 	File has moved from https://tiktok-marketplace.com/?p=11357 to https://tiktok-marketplace.com/refund-policy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 105 links scanned, 67 files written (3813499 bytes overall) [3446067 bytes received at 137842 bytes/sec], 1080419 bytes transferred using HTTP compression in 44 files, ratio 39%, 2.9 requests per connection
+(31 errors, 15 warnings, 0 messages)
